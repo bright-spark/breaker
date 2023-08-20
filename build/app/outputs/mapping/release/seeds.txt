@@ -1,0 +1,1603 @@
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl
+androidx.window.layout.FoldingFeature
+org.chromium.support_lib_boundary.WebMessageCallbackBoundaryInterface
+io.flutter.plugins.urllauncher.WebViewActivity
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface
+io.flutter.plugin.platform.SingleViewPresentation
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+androidx.window.embedding.SplitInfo
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper
+kotlin.internal.jdk7.JDK7PlatformImplementations
+androidx.window.embedding.EmbeddingAdapter
+androidx.window.embedding.EmbeddingCompat$Companion
+android.support.v4.app.RemoteActionCompatParcelizer
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface
+androidx.window.layout.ExtensionWindowLayoutInfoBackend
+androidx.core.app.RemoteActionCompat
+org.chromium.support_lib_boundary.ProxyControllerBoundaryInterface
+androidx.window.layout.FoldingFeature$State$Companion
+androidx.window.embedding.SplitRule$Api30Impl
+org.chromium.support_lib_boundary.ScriptHandlerBoundaryInterface
+androidx.window.embedding.SplitPairFilter
+androidx.window.layout.ActivityCompatHelperApi30
+org.chromium.support_lib_boundary.StaticsBoundaryInterface
+io.flutter.embedding.engine.FlutterJNI
+androidx.window.embedding.EmbeddingCompat
+androidx.savedstate.Recreator
+androidx.activity.ComponentActivity$2
+androidx.window.embedding.ActivityRule
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface
+androidx.window.embedding.ExtensionEmbeddingBackend
+androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable
+androidx.webkit.WebViewClientCompat
+androidx.window.layout.WindowInfoTracker$Companion
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.window.layout.DisplayFeature
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.lifecycle.LiveData$LifecycleBoundObserver
+androidx.window.layout.WindowMetricsCalculator
+androidx.window.embedding.EmptyEmbeddingComponent
+androidx.window.layout.SidecarCompat$FirstAttachAdapter
+kotlinx.coroutines.CoroutineExceptionHandler
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+androidx.window.layout.FoldingFeature$Orientation$Companion
+androidx.window.embedding.ActivityStack
+org.chromium.support_lib_boundary.ServiceWorkerControllerBoundaryInterface
+androidx.window.R$id
+androidx.window.R
+kotlinx.coroutines.android.AndroidDispatcherFactory
+androidx.window.layout.HardwareFoldingFeature$Type$Companion
+androidx.activity.ComponentActivity$3
+org.chromium.support_lib_boundary.WebResourceRequestBoundaryInterface
+androidx.window.layout.SidecarCompat$TranslatingCallback
+androidx.window.core.Version$bigInteger$2
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1
+androidx.window.layout.WindowMetricsCalculatorDecorator
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface
+androidx.core.app.RemoteActionCompatParcelizer
+org.chromium.support_lib_boundary.WebAuthnCallbackBoundaryInterface
+androidx.window.embedding.EmbeddingInterfaceCompat
+io.flutter.view.FlutterCallbackInformation
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$RequestedWithHeaderMode
+io.flutter.plugins.GeneratedPluginRegistrant
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1
+androidx.window.layout.ActivityCompatHelperApi24
+androidx.window.embedding.SplitController
+androidx.window.layout.SidecarWindowBackend$Companion
+androidx.window.layout.WindowInfoTrackerImpl$Companion
+androidx.lifecycle.FullLifecycleObserverAdapter
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface$WebMessagePayloadType
+androidx.lifecycle.Lifecycling$1
+androidx.window.embedding.EmbeddingBackend
+org.chromium.support_lib_boundary.IsomorphicObjectBoundaryInterface
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface
+androidx.window.embedding.SplitRuleParser
+org.chromium.support_lib_boundary.WebResourceErrorBoundaryInterface
+androidx.window.layout.WindowInfoTracker
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer
+androidx.window.embedding.SplitRule$LayoutDir
+androidx.window.layout.SidecarCompat$Companion
+kotlinx.coroutines.android.AndroidExceptionPreHandler
+androidx.window.java.R
+androidx.window.layout.WindowLayoutInfo
+org.chromium.support_lib_boundary.WebViewRendererClientBoundaryInterface
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion
+androidx.core.app.CoreComponentFactory
+androidx.versionedparcelable.ParcelImpl
+org.chromium.support_lib_boundary.FeatureFlagHolderBoundaryInterface
+androidx.activity.ImmLeaksCleaner
+androidx.window.layout.FoldingFeature$Orientation
+androidx.window.layout.HardwareFoldingFeature
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1
+kotlin.internal.jdk8.JDK8PlatformImplementations
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+androidx.window.layout.SidecarWindowBackend
+org.chromium.support_lib_boundary.TracingControllerBoundaryInterface
+org.chromium.support_lib_boundary.WebViewRendererBoundaryInterface
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebAuthnSupport
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+androidx.window.layout.EmptyDecorator
+androidx.window.core.Bounds
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1
+androidx.window.core.Version$Companion
+androidx.window.layout.WindowMetricsCalculatorCompat
+androidx.window.layout.SidecarCompat$DistinctElementCallback
+androidx.window.layout.WindowInfoTrackerDecorator
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface
+androidx.window.embedding.SplitPairRule
+androidx.window.embedding.MatcherUtils
+androidx.window.layout.FoldingFeature$OcclusionType$Companion
+androidx.annotation.Keep
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback
+androidx.window.layout.ExtensionInterfaceCompat
+com.mycompany.koderunstudio.MainActivity
+androidx.fragment.app.Fragment$2
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface
+org.chromium.support_lib_boundary.WebMessageListenerBoundaryInterface
+androidx.core.graphics.drawable.IconCompat
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+io.flutter.embedding.android.FlutterSplashView$SavedState
+org.chromium.support_lib_boundary.ServiceWorkerClientBoundaryInterface
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper
+androidx.window.layout.SidecarAdapter
+androidx.window.core.ExperimentalWindowApi
+kotlinx.coroutines.internal.MainDispatcherFactory
+androidx.window.embedding.SplitRule
+androidx.lifecycle.SingleGeneratedAdapterObserver
+androidx.window.layout.SidecarAdapter$Companion
+androidx.window.layout.HardwareFoldingFeature$Type
+androidx.window.core.Version
+androidx.window.layout.SidecarCompat
+androidx.window.embedding.EmbeddingRule
+androidx.window.embedding.ActivityFilter
+androidx.window.R$styleable
+org.chromium.support_lib_boundary.JsReplyProxyBoundaryInterface
+androidx.window.layout.HardwareFoldingFeature$Companion
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+io.flutter.view.AccessibilityViewEmbedder
+androidx.window.layout.WindowInfoTrackerImpl
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1
+androidx.savedstate.SavedStateRegistry$1
+io.flutter.embedding.engine.FlutterOverlaySurface
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface
+androidx.window.embedding.SplitController$Companion
+androidx.window.embedding.SplitPlaceholderRule
+androidx.window.layout.WindowMetricsCalculator$Companion
+androidx.window.layout.DisplayCompatHelperApi17
+androidx.window.layout.WindowBackend
+org.chromium.support_lib_boundary.WebMessageBoundaryInterface
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface
+androidx.window.layout.FoldingFeature$OcclusionType
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter
+androidx.window.R$attr
+androidx.window.layout.WindowMetrics
+androidx.window.layout.FoldingFeature$State
+org.chromium.support_lib_boundary.VisualStateCallbackBoundaryInterface
+androidx.window.embedding.EmbeddingTranslatingCallback
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$ForceDarkBehavior
+androidx.window.layout.DisplayCompatHelperApi28
+androidx.window.R$styleable: int SplitPlaceholderRule_splitMinWidth
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarCompat$Companion Companion
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+kotlinx.coroutines.CompletedExceptionally: int _handled
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: java.util.WeakHashMap mActivityWindowLayoutInfo
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+androidx.window.core.Bounds: int right
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$ForceDarkBehavior: int PREFER_MEDIA_QUERY_OVER_FORCE_DARK
+androidx.window.R$id: int androidx_window_activity_scope
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.core.util.Consumer callback
+io.flutter.embedding.engine.FlutterJNI: java.util.concurrent.locks.ReentrantReadWriteLock shellHolderLock
+androidx.window.R$attr: int primaryActivityName
+androidx.window.embedding.SplitPairFilter: java.lang.String secondaryActivityIntentAction
+androidx.window.embedding.ActivityStack: boolean isEmpty
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: androidx.window.embedding.ExtensionEmbeddingBackend this$0
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$1
+io.flutter.embedding.engine.FlutterJNI: java.lang.String vmServiceUri
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus
+kotlin.jvm.internal.FunctionReference: int flags
+androidx.window.layout.ActivityCompatHelperApi24: androidx.window.layout.ActivityCompatHelperApi24 INSTANCE
+androidx.window.core.Version: int major
+androidx.window.R$styleable: int[] SplitPairRule
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.ExtensionInterfaceCompat windowExtension
+androidx.window.embedding.SplitPairRule: boolean finishSecondaryWithPrimary
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetricsCalculatorCompat INSTANCE
+androidx.window.R$attr: int secondaryActivityName
+androidx.window.R$attr: int secondaryActivityAction
+io.flutter.embedding.engine.FlutterJNI: float displayWidth
+kotlin.jvm.internal.CallableReference: java.lang.String name
+androidx.window.layout.HardwareFoldingFeature$Type: java.lang.String description
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: java.lang.ref.WeakReference activityWeakReference
+kotlinx.coroutines.JobSupport: java.lang.Object _state
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+androidx.window.R$attr: int splitRatio
+kotlin.jvm.internal.CallableReference: java.lang.Object NO_RECEIVER
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: android.app.Activity $activity
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation VERTICAL
+androidx.window.embedding.EmbeddingCompat: androidx.window.embedding.EmbeddingAdapter adapter
+androidx.window.embedding.ExtensionEmbeddingBackend: java.lang.String TAG
+androidx.window.R$attr: int placeholderActivityName
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: androidx.window.layout.WindowLayoutInfo lastKnownValue
+kotlinx.coroutines.android.HandlerContext: kotlinx.coroutines.android.HandlerContext _immediate
+androidx.window.layout.WindowMetricsCalculatorCompat: java.lang.String TAG
+kotlinx.coroutines.channels.AbstractSendChannel: java.lang.Object onCloseHandler
+androidx.window.R$styleable: int SplitPairRule_splitMinSmallestWidth
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName primaryActivityName
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev
+androidx.window.R$styleable: int ActivityFilter_activityName
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTracker$Companion $$INSTANCE
+androidx.window.layout.DisplayCompatHelperApi17: androidx.window.layout.DisplayCompatHelperApi17 INSTANCE
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$ForceDarkBehavior: int FORCE_DARK_ONLY
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+androidx.window.R$styleable: int SplitPairRule_clearTop
+androidx.window.embedding.SplitPlaceholderRule: java.util.Set filters
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state
+androidx.window.embedding.ActivityFilter: java.lang.String intentAction
+androidx.window.embedding.EmbeddingCompat: androidx.window.extensions.embedding.ActivityEmbeddingComponent embeddingExtension
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Type type
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController$Companion Companion
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$2
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.Map listenerToActivity
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$RequestedWithHeaderMode: int APP_PACKAGE_NAME
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type FOLD
+androidx.window.R$id: int ltr
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.sidecar.SidecarInterface$SidecarCallback callbackInterface
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName secondaryActivityName
+androidx.window.core.Version: java.lang.String description
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: androidx.core.util.Consumer callback
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: java.util.concurrent.locks.ReentrantLock multicastConsumerLock
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef
+androidx.window.layout.SidecarAdapter: java.lang.String TAG
+androidx.window.layout.WindowInfoTrackerImpl: int BUFFER_CAPACITY
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+androidx.window.embedding.SplitPairRule: boolean clearTop
+androidx.window.layout.WindowMetricsCalculator$Companion: kotlin.jvm.functions.Function1 decorator
+androidx.window.R$id: int rtl
+androidx.window.R$styleable: int SplitPlaceholderRule_splitMinSmallestWidth
+androidx.window.R$attr: int activityAction
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next
+androidx.window.R$attr: int splitMinWidth
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+kotlinx.coroutines.CancelledContinuation: int _resumed
+androidx.window.R$attr: int finishSecondaryWithPrimary
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController globalInstance
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface$WebMessagePayloadType: int TYPE_STRING
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.sidecar.SidecarDeviceState lastDeviceState
+androidx.window.layout.SidecarCompat: androidx.window.sidecar.SidecarInterface sidecar
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: java.util.List lastValue
+io.flutter.embedding.engine.FlutterJNI: float displayHeight
+kotlinx.coroutines.scheduling.LimitingDispatcher: int inFlightTasks
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+androidx.window.embedding.SplitController: boolean sDebug
+androidx.window.layout.SidecarCompat: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface extensionCallback
+androidx.window.core.Version: androidx.window.core.Version VERSION_1_0
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+androidx.window.layout.SidecarCompat: java.util.Map windowListenerRegisteredContexts
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$RequestedWithHeaderMode: int NO_HEADER
+androidx.window.R$styleable: int SplitPairRule_splitRatio
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.String TAG
+androidx.window.R$styleable: int ActivityFilter_activityAction
+androidx.window.R$styleable: int SplitPairRule_finishPrimaryWithSecondary
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: androidx.window.extensions.layout.WindowLayoutComponent component
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType NONE
+androidx.window.layout.DisplayCompatHelperApi28: androidx.window.layout.DisplayCompatHelperApi28 INSTANCE
+androidx.window.R$styleable: int SplitPlaceholderRule_placeholderActivityName
+kotlin.jvm.internal.CallableReference: java.lang.Object receiver
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+androidx.window.R$styleable: int SplitPairFilter_secondaryActivityAction
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTrackerDecorator decorator
+androidx.window.embedding.SplitRule$Api30Impl: androidx.window.embedding.SplitRule$Api30Impl INSTANCE
+androidx.window.core.Version: androidx.window.core.Version UNKNOWN
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: android.app.Activity activity
+kotlin.jvm.internal.CallableReference: boolean isTopLevel
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+androidx.window.R$styleable: int[] ActivityFilter
+androidx.window.layout.FoldingFeature$OcclusionType: java.lang.String description
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.CopyOnWriteArrayList windowLayoutChangeCallbacks
+androidx.window.layout.SidecarCompat: java.lang.String TAG
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Key key
+kotlinx.coroutines.CommonPool: java.util.concurrent.Executor pool
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+androidx.window.layout.WindowMetrics: androidx.window.core.Bounds _bounds
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State FLAT
+androidx.window.core.Version: androidx.window.core.Version VERSION_0_1
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebAuthnSupport: int APP
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+androidx.window.R$styleable: int SplitPlaceholderRule_splitRatio
+androidx.window.layout.ActivityCompatHelperApi30: androidx.window.layout.ActivityCompatHelperApi30 INSTANCE
+androidx.window.R$attr: int alwaysExpand
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle splashScreenState
+androidx.window.R$styleable: int SplitPairRule_finishSecondaryWithPrimary
+androidx.window.core.Version$bigInteger$2: androidx.window.core.Version this$0
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+androidx.window.embedding.SplitRule: int minSmallestWidth
+androidx.window.R$attr: int splitLayoutDirection
+kotlinx.coroutines.channels.ArrayChannel: int size
+androidx.window.core.Bounds: int left
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: int label
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.layout.SidecarAdapter sidecarAdapter
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+androidx.window.embedding.SplitController: java.util.Set staticSplitRules
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+androidx.window.R$attr: int clearTop
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: java.util.List lastInfo
+androidx.window.layout.SidecarCompat$DistinctElementCallback: java.util.WeakHashMap activityWindowLayoutInfo
+androidx.window.embedding.EmbeddingCompat: androidx.window.embedding.EmbeddingCompat$Companion Companion
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+androidx.window.R$styleable: int SplitPairFilter_primaryActivityName
+androidx.window.core.Bounds: int top
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend globalInstance
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+androidx.window.embedding.MatcherUtils: androidx.window.embedding.MatcherUtils INSTANCE
+kotlinx.coroutines.InvokeOnCancelling: int _invoked
+androidx.window.embedding.MatcherUtils: java.lang.String sMatchersTag
+androidx.window.embedding.ActivityRule: java.util.Set filters
+androidx.window.embedding.SplitRule: int layoutDirection
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.locks.ReentrantLock globalLock
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+androidx.window.layout.SidecarWindowBackend: boolean DEBUG
+kotlin.jvm.internal.CallableReference: java.lang.String signature
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.Map activityToListeners
+androidx.window.R$styleable: int SplitPairFilter_secondaryActivityName
+androidx.window.layout.SidecarCompat$TranslatingCallback: androidx.window.layout.SidecarCompat this$0
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+androidx.window.layout.WindowMetricsCalculator$Companion: androidx.window.layout.WindowMetricsCalculator$Companion $$INSTANCE
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+androidx.window.embedding.MatcherUtils: boolean sDebugMatchers
+androidx.window.embedding.SplitPairRule: boolean finishPrimaryWithSecondary
+androidx.window.layout.FoldingFeature$State: java.lang.String description
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+kotlin.jvm.internal.Lambda: int arity
+androidx.window.embedding.SplitController: java.util.concurrent.locks.ReentrantLock globalLock
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.locks.ReentrantLock globalLock
+androidx.window.R$attr: int finishPrimaryWithSecondary
+androidx.window.embedding.EmbeddingCompat: java.lang.String TAG
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+androidx.window.embedding.SplitPairRule: java.util.Set filters
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.ExtensionsWindowLayoutInfoAdapter INSTANCE
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType FULL
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: androidx.core.util.Consumer $consumer$inlined
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebAuthnSupport: int NONE
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation$Companion Companion
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: android.app.Activity $activity
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl splitInfoEmbeddingCallback
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder
+androidx.window.layout.SidecarAdapter: androidx.window.layout.SidecarAdapter$Companion Companion
+androidx.window.layout.SidecarWindowBackend: java.lang.String TAG
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: android.app.Activity activity
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: androidx.window.layout.WindowInfoTracker tracker
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: java.util.concurrent.locks.ReentrantLock lock
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean attached
+androidx.window.embedding.SplitRule: float splitRatio
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type$Companion Companion
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.ActivityStack: java.util.List activities
+androidx.window.R$attr: int activityName
+androidx.window.layout.SidecarCompat: java.util.Map componentCallbackMap
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: androidx.core.util.Consumer $consumer
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$ForceDarkBehavior: int MEDIA_QUERY_ONLY
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: androidx.window.layout.WindowMetricsCalculator$Companion$reset$1 INSTANCE
+kotlin.coroutines.jvm.internal.SuspendLambda: int arity
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext _context
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+androidx.window.layout.WindowInfoTracker: androidx.window.layout.WindowInfoTracker$Companion Companion
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: java.util.concurrent.Executor executor
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+kotlinx.coroutines.DispatchedCoroutine: int _decision
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$ImeVisibleListener imeVisibleListener
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+androidx.window.R$styleable: int SplitPairRule_splitLayoutDirection
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend$Companion Companion
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack
+androidx.window.layout.EmptyDecorator: androidx.window.layout.EmptyDecorator INSTANCE
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+androidx.window.embedding.EmbeddingTranslatingCallback: androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface callback
+io.flutter.embedding.engine.FlutterJNI: float displayDensity
+androidx.window.embedding.SplitInfo: float splitRatio
+androidx.window.layout.HardwareFoldingFeature: androidx.window.core.Bounds featureBounds
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend$Companion Companion
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: kotlinx.coroutines.flow.Flow $flow
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: java.util.Map consumerToJobMap
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$State state
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.window.layout.WindowLayoutInfo lastInfo
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable reflected
+androidx.window.R$id: int locale
+androidx.window.embedding.ActivityFilter: android.content.ComponentName componentName
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType$Companion Companion
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebAuthnSupport: int BROWSER
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetricsCalculator$Companion Companion
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: java.util.Set registeredListeners
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowMetricsCalculator windowMetricsCalculator
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarAdapter sidecarAdapter
+androidx.window.core.Version: int patch
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation completion
+androidx.window.core.Version: int minor
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+androidx.window.core.Bounds: int bottom
+androidx.window.embedding.EmbeddingCompat: boolean DEBUG
+androidx.window.layout.FoldingFeature$Orientation: java.lang.String description
+androidx.window.layout.SidecarCompat$DistinctElementCallback: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface callbackInterface
+androidx.window.R$styleable: int[] ActivityRule
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State$Companion Companion
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArraySet splitRules
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+kotlin.jvm.internal.CallableReference: java.lang.Class owner
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: java.util.concurrent.locks.ReentrantLock lock
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: int label
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: java.lang.Runnable onFrameConsumed
+androidx.window.embedding.EmbeddingTranslatingCallback: androidx.window.embedding.EmbeddingAdapter adapter
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type HINGE
+androidx.window.core.Version: androidx.window.core.Version$Companion Companion
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.EmbeddingInterfaceCompat embeddingExtension
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String previousCompletedSplashIsolate
+androidx.window.layout.WindowInfoTracker$Companion: boolean DEBUG
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowBackend windowBackend
+androidx.window.R$styleable: int[] SplitPlaceholderRule
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowInfoTrackerImpl$Companion Companion
+androidx.window.core.Version: androidx.window.core.Version CURRENT
+androidx.window.layout.WindowLayoutInfo: java.util.List displayFeatures
+androidx.window.embedding.SplitController: androidx.window.embedding.EmbeddingBackend embeddingBackend
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: java.util.concurrent.Executor executor
+androidx.window.R$styleable: int SplitPlaceholderRule_splitLayoutDirection
+kotlinx.coroutines.CancellableContinuationImpl: int _decision
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Companion Companion
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+androidx.window.core.Version: kotlin.Lazy bigInteger$delegate
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$0
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+kotlin.jvm.internal.FunctionReference: int arity
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: androidx.window.layout.SidecarCompat sidecarCompat
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: androidx.window.layout.WindowInfoTrackerImpl this$0
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: android.app.Activity activity
+androidx.window.core.Version: java.lang.String VERSION_PATTERN_STRING
+androidx.window.R$attr: int splitMinSmallestWidth
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack secondaryActivityStack
+androidx.window.embedding.SplitPlaceholderRule: android.content.Intent placeholderIntent
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+androidx.window.layout.WindowInfoTracker$Companion: java.lang.String TAG
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack primaryActivityStack
+androidx.window.R$styleable: int[] SplitPairFilter
+androidx.window.embedding.ActivityRule: boolean alwaysExpand
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: androidx.window.layout.SidecarWindowBackend this$0
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+androidx.window.layout.SidecarCompat$DistinctElementCallback: java.util.concurrent.locks.ReentrantLock lock
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+androidx.window.R$styleable: int SplitPairRule_splitMinWidth
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArrayList splitChangeCallbacks
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: androidx.window.layout.SidecarCompat this$0
+androidx.window.embedding.SplitRule: int minWidth
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State HALF_OPENED
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend globalInstance
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.concurrent.locks.ReentrantLock extensionWindowBackendLock
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation HORIZONTAL
+androidx.window.R$styleable: int ActivityRule_alwaysExpand
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1 INSTANCE
+androidx.window.embedding.EmbeddingInterfaceCompat: void setEmbeddingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+androidx.window.embedding.ExtensionEmbeddingBackend: void setEmbeddingExtension(androidx.window.embedding.EmbeddingInterfaceCompat)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: ExtensionEmbeddingBackend$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.window.R$attr: R$attr()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDisplayFeatures(java.util.List,java.util.List)
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsN$window_release(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+androidx.window.embedding.SplitRule$Api30Impl: android.graphics.Rect getBounds(android.view.WindowMetrics)
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$OcclusionType getOcclusionType()
+androidx.window.layout.SidecarAdapter$Companion: androidx.window.layout.DisplayFeature translate$window_release(androidx.window.sidecar.SidecarDisplayFeature,androidx.window.sidecar.SidecarDeviceState)
+androidx.window.embedding.SplitPairFilter: boolean equals(java.lang.Object)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getOffscreenPreRaster()
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int,long)
+org.chromium.support_lib_boundary.util.BoundaryInterfaceReflectionUtil: BoundaryInterfaceReflectionUtil()
+kotlin.jvm.internal.FunctionReference: boolean isInline()
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface: void backToSafety(boolean)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getWebkitToCompatConverter()
+androidx.window.embedding.EmbeddingAdapter: androidx.window.embedding.SplitInfo translate(androidx.window.extensions.embedding.SplitInfo)
+androidx.window.layout.SidecarCompat: java.util.Map access$getWindowListenerRegisteredContexts$p(androidx.window.layout.SidecarCompat)
+io.flutter.embedding.android.FlutterActivity: FlutterActivity()
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+androidx.window.layout.SidecarWindowBackend: void access$setGlobalInstance$cp(androidx.window.layout.SidecarWindowBackend)
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.window.embedding.SplitPairRule: int hashCode()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setAlgorithmicDarkeningAllowed(boolean)
+androidx.window.layout.FoldingFeature$State$Companion: FoldingFeature$State$Companion()
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsP$window_release(android.app.Activity)
+org.chromium.support_lib_boundary.ServiceWorkerControllerBoundaryInterface: void setServiceWorkerClient(java.lang.reflect.InvocationHandler)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.window.embedding.ActivityStack: boolean isEmpty()
+org.chromium.support_lib_boundary.WebViewRendererClientBoundaryInterface: void onRendererResponsive(android.webkit.WebView,java.lang.reflect.InvocationHandler)
+io.flutter.view.AccessibilityBridge$CustomAccessibilityAction: AccessibilityBridge$CustomAccessibilityAction()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: ExtensionWindowLayoutInfoBackend$MulticastConsumer(android.app.Activity)
+com.mycompany.koderunstudio.MainActivity: MainActivity()
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend access$getGlobalInstance$cp()
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetrics computeMaximumWindowMetrics(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+androidx.webkit.internal.ApiHelperForM: boolean getOffscreenPreRaster(android.webkit.WebSettings)
+androidx.window.embedding.EmbeddingCompat: void setSplitRules(java.util.Set)
+androidx.window.embedding.ExtensionEmbeddingBackend: void registerRule(androidx.window.embedding.EmbeddingRule)
+androidx.window.embedding.SplitPairFilter: java.lang.String toString()
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState valueOf(java.lang.String)
+org.chromium.support_lib_boundary.TracingControllerBoundaryInterface: boolean isTracing()
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: void setLastInfo(java.util.List)
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowBackend windowBackend$window_release(android.content.Context)
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: android.net.Uri getSafeBrowsingPrivacyPolicyUrl()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName getPrimaryActivityName()
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$700(io.flutter.embedding.android.FlutterSplashView$SavedState)
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityPairPredicates$lambda-1(androidx.window.embedding.EmbeddingAdapter,java.util.Set,android.util.Pair)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: BaseContinuationImpl(kotlin.coroutines.Continuation)
+androidx.window.layout.WindowInfoTracker$Companion: WindowInfoTracker$Companion()
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.core.util.Consumer getCallback()
+androidx.window.embedding.ActivityStack: java.lang.String toString()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$ImeVisibleListener getImeVisibleListener()
+androidx.window.layout.SidecarCompat$DistinctElementCallback: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.window.layout.FoldingFeature$Orientation$Companion: FoldingFeature$Orientation$Companion()
+androidx.window.core.Version$Companion: androidx.window.core.Version getUNKNOWN()
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$InputAwareWebViewPlatformView: android.view.View getView()
+androidx.webkit.internal.ApiHelperForM: void setOffscreenPreRaster(android.webkit.WebSettings,boolean)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: androidx.window.layout.HardwareFoldingFeature$Type getFOLD()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getVMServiceUri()
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setCacheMode(int)
+androidx.window.layout.SidecarWindowBackend$Companion: androidx.window.layout.SidecarWindowBackend getInstance(android.content.Context)
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: void onLowMemory()
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type valueOf(java.lang.String)
+androidx.window.embedding.EmbeddingBackend: void registerRule(androidx.window.embedding.EmbeddingRule)
+androidx.window.layout.WindowMetrics: WindowMetrics(androidx.window.core.Bounds)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.engine.FlutterJNI: void updateRefreshRate()
+androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface: void onSplitInfoChanged(java.util.List)
+androidx.window.embedding.SplitInfo: int hashCode()
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertSafeBrowsingResponse(java.lang.Object)
+androidx.window.embedding.EmbeddingAdapter: java.util.List translate(java.util.List)
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+androidx.window.embedding.SplitPlaceholderRule: int hashCode()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.webkit.internal.ApiHelperForM: void postVisualStateCallback(android.webkit.WebView,long,androidx.webkit.WebViewCompat$VisualStateCallback)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+androidx.window.embedding.SplitController: void clearRegisteredRules()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView: void setSplashDrawable(android.graphics.drawable.Drawable)
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateParentMetricsPredicate(androidx.window.embedding.SplitRule)
+androidx.window.layout.WindowLayoutInfo: boolean equals(java.lang.Object)
+androidx.window.layout.FoldingFeature: boolean isSeparating()
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI)
+org.chromium.support_lib_boundary.VisualStateCallbackBoundaryInterface: void onComplete(long)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+kotlin.jvm.internal.FunctionReference: FunctionReference(int)
+kotlin.jvm.internal.Lambda: Lambda(int)
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState[] values()
+androidx.window.embedding.MatcherUtils: MatcherUtils()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+androidx.window.layout.HardwareFoldingFeature: boolean equals(java.lang.Object)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.SidecarWindowBackend: void setWindowExtension(androidx.window.layout.ExtensionInterfaceCompat)
+io.flutter.embedding.engine.loader.FlutterLoader: FlutterLoader()
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertWebResourceError(java.lang.reflect.InvocationHandler)
+io.flutter.view.AccessibilityBridge$StringAttribute: AccessibilityBridge$StringAttribute()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.Set getSplitRules()
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.window.embedding.EmbeddingAdapter: boolean translateParentMetricsPredicate$lambda-4(androidx.window.embedding.SplitRule,android.view.WindowMetrics)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$602(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+io.flutter.embedding.android.FlutterTextureView: void setRenderSurface(android.view.Surface)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertSafeBrowsingResponse(java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertServiceWorkerSettings(java.lang.Object)
+androidx.window.embedding.SplitPairFilter: java.lang.String getSecondaryActivityIntentAction()
+androidx.webkit.internal.ApiHelperForP: boolean isTracing(android.webkit.TracingController)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: boolean getBlockNetworkLoads()
+androidx.window.embedding.EmbeddingCompat$Companion: androidx.window.extensions.embedding.ActivityEmbeddingComponent embeddingComponent()
+androidx.window.embedding.SplitRuleParser: java.util.Set parseSplitRules$window_release(android.content.Context,int)
+io.flutter.plugins.webviewflutter.GeneratedAndroidWebView$FileChooserMode: io.flutter.plugins.webviewflutter.GeneratedAndroidWebView$FileChooserMode valueOf(java.lang.String)
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1(androidx.window.layout.SidecarCompat,android.app.Activity)
+androidx.window.layout.WindowMetricsCalculatorCompat: int getNavigationBarHeight(android.content.Context)
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+io.flutter.embedding.engine.FlutterJNI: void cleanupMessageData(long)
+androidx.window.core.Bounds: int getTop()
+androidx.window.layout.HardwareFoldingFeature$Companion: void validateFeatureBounds$window_release(androidx.window.core.Bounds)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void setWebViewRendererClient(java.lang.reflect.InvocationHandler)
+kotlin.collections.IntIterator: IntIterator()
+androidx.window.embedding.ActivityStack: boolean contains(android.app.Activity)
+androidx.webkit.internal.ApiHelperForP: android.webkit.TracingController getTracingControllerInstance()
+androidx.window.layout.DisplayCompatHelperApi17: DisplayCompatHelperApi17()
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+androidx.window.layout.DisplayFeature: android.graphics.Rect getBounds()
+androidx.window.embedding.SplitController$Companion: SplitController$Companion()
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,int)
+kotlin.coroutines.jvm.internal.ContinuationImpl: ContinuationImpl(kotlin.coroutines.Continuation,kotlin.coroutines.CoroutineContext)
+org.chromium.support_lib_boundary.WebResourceRequestBoundaryInterface: boolean isRedirect()
+androidx.window.embedding.SplitRule: boolean checkParentMetrics(android.view.WindowMetrics)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setAllowContentAccess(boolean)
+androidx.window.layout.SidecarCompat: void onWindowLayoutChangeListenerRemoved(android.app.Activity)
+androidx.window.core.Version: java.lang.String getDescription()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+io.flutter.plugins.webviewflutter.GeneratedAndroidWebView$WebResourceRequestData: GeneratedAndroidWebView$WebResourceRequestData()
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type[] values()
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+kotlin.jvm.internal.CallableReference: CallableReference()
+androidx.window.core.Bounds: Bounds(int,int,int,int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.arch.core.internal.SafeIterableMap: SafeIterableMap()
+androidx.collection.SimpleArrayMap: SimpleArrayMap()
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$600(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+org.chromium.support_lib_boundary.ServiceWorkerControllerBoundaryInterface: java.lang.reflect.InvocationHandler getServiceWorkerWebSettings()
+androidx.window.R$styleable: R$styleable()
+androidx.window.embedding.EmbeddingBackend: void registerSplitListenerForActivity(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.embedding.EmbeddingBackend: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: void onSplitInfoChanged(java.util.List)
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void postMessage(java.lang.reflect.InvocationHandler)
+androidx.window.core.Bounds: int getLeft()
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController getInstance()
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+androidx.window.embedding.EmbeddingCompat$Companion: boolean isEmbeddingAvailable()
+androidx.window.layout.FoldingFeature$State: FoldingFeature$State(java.lang.String)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+androidx.window.embedding.SplitController$Companion: SplitController$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.embedding.SplitRule: float getSplitRatio()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmoji(int)
+kotlinx.coroutines.android.HandlerDispatcher: HandlerDispatcher()
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KDeclarationContainer getOwner()
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface: int getType()
+androidx.window.layout.SidecarWindowBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: SidecarWindowBackend$ExtensionListenerImpl(androidx.window.layout.SidecarWindowBackend)
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type access$getHINGE$cp()
+androidx.window.embedding.ActivityFilter: int hashCode()
+kotlinx.coroutines.JobCancellingNode: JobCancellingNode()
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityPredicates$lambda-6(java.util.Set,android.app.Activity)
+androidx.window.embedding.ExtensionEmbeddingBackend: void setSplitRules(java.util.Set)
+kotlin.UninitializedPropertyAccessException: UninitializedPropertyAccessException()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: WindowInfoTrackerCallbackAdapter(androidx.window.layout.WindowInfoTracker)
+androidx.window.embedding.ActivityRule: ActivityRule(java.util.Set,boolean)
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPairFilter parseSplitPairFilter(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.layout.SidecarWindowBackend$Companion: SidecarWindowBackend$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+androidx.window.embedding.ActivityStack: ActivityStack(java.util.List,boolean)
+androidx.core.content.ContextCompat$Api28Impl: java.util.concurrent.Executor getMainExecutor(android.content.Context)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void removeListener(androidx.core.util.Consumer)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointRegionalIndicator(int)
+androidx.window.embedding.SplitController: void registerRule(androidx.window.embedding.EmbeddingRule)
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isTypeVisible(int)
+org.chromium.support_lib_boundary.WebViewRendererBoundaryInterface: boolean terminate()
+androidx.window.layout.EmptyDecorator: androidx.window.layout.WindowInfoTracker decorate(androidx.window.layout.WindowInfoTracker)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invoke(kotlinx.coroutines.flow.FlowCollector,kotlin.coroutines.Continuation)
+androidx.window.embedding.SplitInfo: float getSplitRatio()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setRequestedWithHeaderMode(int)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setRequestedWithHeaderMode(int)
+androidx.window.embedding.SplitController: SplitController()
+io.flutter.embedding.android.FlutterView: io.flutter.plugin.common.BinaryMessenger getBinaryMessenger()
+kotlin.coroutines.AbstractCoroutineContextElement: AbstractCoroutineContextElement(kotlin.coroutines.CoroutineContext$Key)
+org.chromium.support_lib_boundary.TracingControllerBoundaryInterface: void start(int,java.util.Collection,int)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: boolean isEmpty()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(kotlin.coroutines.Continuation)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setWillSuppressErrorPage(boolean)
+kotlin.jvm.internal.Lambda: java.lang.String toString()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$WebViewPlatformView: android.webkit.WebChromeClient getWebChromeClient()
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType[] values()
+androidx.webkit.internal.ApiHelperForM: java.lang.CharSequence getDescription(android.webkit.WebResourceError)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Type getType$window_release()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getRequestedWithHeaderMode()
+kotlin.jvm.internal.FunctionReference: java.lang.String toString()
+kotlinx.coroutines.NodeList: NodeList()
+androidx.window.embedding.ActivityRule: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+androidx.window.embedding.EmbeddingCompat: void setEmbeddingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.window.layout.SidecarCompat: androidx.window.sidecar.SidecarInterface getSidecar()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: SidecarWindowBackend$WindowLayoutChangeCallbackWrapper(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertSettings(android.webkit.WebSettings)
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+androidx.window.core.Version$Companion: androidx.window.core.Version getVERSION_1_0()
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+androidx.window.layout.DisplayCompatHelperApi28: DisplayCompatHelperApi28()
+androidx.window.layout.ExtensionInterfaceCompat: void onWindowLayoutChangeListenerAdded(android.app.Activity)
+androidx.webkit.internal.ApiHelperForM: android.webkit.WebMessagePort[] createWebMessageChannel(android.webkit.WebView)
+androidx.window.core.Version$bigInteger$2: Version$bigInteger$2(androidx.window.core.Version)
+kotlin.jvm.internal.CallableReference: java.lang.Object getBoundReceiver()
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary()
+io.flutter.embedding.android.FlutterImageView: android.media.ImageReader getImageReader()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$Orientation getOrientation()
+androidx.webkit.internal.ApiHelperForM: void close(android.webkit.WebMessagePort)
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: void onConfigurationChanged(android.content.res.Configuration)
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+androidx.window.layout.SidecarWindowBackend: SidecarWindowBackend(androidx.window.layout.ExtensionInterfaceCompat)
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityIntentPredicates(java.util.Set)
+io.flutter.embedding.android.FlutterView: void setVisibility(int)
+androidx.window.layout.SidecarCompat: void registerConfigurationChangeListener(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.window.core.Version: int compareTo(androidx.window.core.Version)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertWebResourceError(java.lang.Object)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+org.chromium.support_lib_boundary.WebViewRendererClientBoundaryInterface: void onRendererUnresponsive(android.webkit.WebView,java.lang.reflect.InvocationHandler)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+androidx.window.core.Version$Companion: Version$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+kotlin.reflect.KVisibility: kotlin.reflect.KVisibility[] values()
+org.chromium.support_lib_boundary.WebMessageBoundaryInterface: java.lang.reflect.InvocationHandler getMessagePayload()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$102(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.EmbeddingInterfaceCompat getEmbeddingExtension()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+androidx.window.embedding.SplitRuleParser: SplitRuleParser()
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController access$getGlobalInstance$cp()
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateIntentPredicates(java.util.Set)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState[] values()
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: void onViewAttachedToWindow(android.view.View)
+androidx.window.layout.WindowInfoTracker$-CC: void overrideDecorator(androidx.window.layout.WindowInfoTrackerDecorator)
+androidx.window.embedding.EmbeddingAdapter: EmbeddingAdapter()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$OcclusionType getOcclusionType()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+org.chromium.support_lib_boundary.WebMessageCallbackBoundaryInterface: void onMessage(java.lang.reflect.InvocationHandler,java.lang.reflect.InvocationHandler)
+androidx.window.layout.WindowInfoTrackerImpl$Companion: WindowInfoTrackerImpl$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlin.coroutines.jvm.internal.SuspendLambda: java.lang.String toString()
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.ActivityFilter parseActivityFilter(android.content.Context,android.content.res.XmlResourceParser)
+org.chromium.support_lib_boundary.TracingControllerBoundaryInterface: boolean stop(java.io.OutputStream,java.util.concurrent.Executor)
+kotlinx.coroutines.JobNode: JobNode()
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode[] values()
+androidx.window.embedding.SplitController: void addSplitListener(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.webkit.internal.ApiHelperForP: android.os.Looper getWebViewLooper(android.webkit.WebView)
+androidx.window.layout.WindowMetricsCalculator$-CC: void reset()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.reflect.Method preHandler()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getWebAuthnSupport()
+androidx.webkit.internal.ApiHelperForOMR1: void setSafeBrowsingWhitelist(java.util.List,android.webkit.ValueCallback)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getDisabledActionModeMenuItems()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+androidx.window.layout.ActivityCompatHelperApi30: android.graphics.Rect currentWindowBounds(android.app.Activity)
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: boolean isMultiProcessEnabled()
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+androidx.window.embedding.MatcherUtils: boolean wildcardMatch(java.lang.String,java.lang.String)
+androidx.window.layout.WindowMetricsCalculator$-CC: void overrideDecorator(androidx.window.layout.WindowMetricsCalculatorDecorator)
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType valueOf(java.lang.String)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void setLastInfo(androidx.window.layout.WindowLayoutInfo)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+androidx.window.core.Version$Companion: androidx.window.core.Version getVERSION_0_1()
+androidx.window.layout.WindowInfoTrackerImpl$Companion: WindowInfoTrackerImpl$Companion()
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: void initSafeBrowsing(android.content.Context,android.webkit.ValueCallback)
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface: void proceed(boolean)
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$InputAwareWebViewPlatformView: void setWebChromeClient(android.webkit.WebChromeClient)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+io.flutter.embedding.engine.FlutterJNI: void attachToNative()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+org.chromium.support_lib_boundary.WebAuthnCallbackBoundaryInterface: void onResult(int,android.content.Intent)
+androidx.window.embedding.EmbeddingCompat$Companion: java.lang.Integer getExtensionApiLevel()
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: void onViewDetachedFromWindow(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.webkit.internal.ApiHelperForOMR1: void startSafeBrowsing(android.content.Context,android.webkit.ValueCallback)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+androidx.window.embedding.ExtensionEmbeddingBackend: void access$setGlobalInstance$cp(androidx.window.embedding.ExtensionEmbeddingBackend)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+androidx.window.layout.ExtensionInterfaceCompat: void setExtensionCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: java.lang.reflect.InvocationHandler getWebViewRendererClient()
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertWebMessagePort(java.lang.reflect.InvocationHandler)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType[] values()
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getProxyController()
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: androidx.core.util.Consumer getCallback()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType valueOf(java.lang.String)
+androidx.webkit.internal.ApiHelperForP: java.lang.ClassLoader getWebViewClassLoader()
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+kotlin.jvm.internal.CallableReference: CallableReference(java.lang.Object)
+androidx.window.embedding.ActivityStack: java.util.List getActivities$window_release()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getSafeBrowsingEnabled()
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,java.lang.ref.WeakReference)
+androidx.window.embedding.SplitController: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+org.chromium.support_lib_boundary.WebMessageBoundaryInterface: java.lang.String getData()
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+io.flutter.plugins.webviewflutter.GeneratedAndroidWebView$WebViewPoint: GeneratedAndroidWebView$WebViewPoint()
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: HardwareFoldingFeature$Type$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetRight(android.view.DisplayCutout)
+androidx.window.layout.SidecarWindowBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$WebViewPlatformView: android.view.View getView()
+io.flutter.plugins.webviewflutter.InputAwareWebView: void setContainerView(android.view.View)
+kotlin.jvm.internal.CallableReference: boolean isOpen()
+androidx.window.layout.SidecarWindowBackend$Companion: SidecarWindowBackend$Companion()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: ExtensionWindowLayoutInfoBackend(androidx.window.extensions.layout.WindowLayoutComponent)
+androidx.webkit.internal.ApiHelperForM: android.webkit.WebMessage createWebMessage(androidx.webkit.WebMessageCompat)
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsQ$window_release(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+androidx.window.embedding.SplitInfo: SplitInfo(androidx.window.embedding.ActivityStack,androidx.window.embedding.ActivityStack,float)
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+androidx.window.embedding.EmbeddingTranslatingCallback: EmbeddingTranslatingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface,androidx.window.embedding.EmbeddingAdapter)
+androidx.window.core.Bounds: java.lang.String toString()
+io.flutter.plugins.webviewflutter.GeneratedAndroidWebView$FileChooserMode: io.flutter.plugins.webviewflutter.GeneratedAndroidWebView$FileChooserMode[] values()
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.ExtensionInterfaceCompat: void onWindowLayoutChangeListenerRemoved(android.app.Activity)
+androidx.window.embedding.SplitPairFilter: boolean matchesActivityIntentPair(android.app.Activity,android.content.Intent)
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void addListener(androidx.core.util.Consumer)
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+androidx.window.embedding.SplitPairFilter: SplitPairFilter(android.content.ComponentName,android.content.ComponentName,java.lang.String)
+androidx.window.layout.WindowLayoutInfo: java.util.List getDisplayFeatures()
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack getPrimaryActivityStack()
+androidx.window.embedding.SplitPlaceholderRule: java.util.Set getFilters()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setEnterpriseAuthenticationAppLinkPolicyEnabled(boolean)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View)
+androidx.window.embedding.SplitPairFilter: int hashCode()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void removeWindowLayoutInfoListener(androidx.core.util.Consumer)
+kotlin.jvm.internal.ReflectionFactory: ReflectionFactory()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetBottom(android.view.DisplayCutout)
+kotlin.jvm.internal.FunctionReference: boolean isOperator()
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.window.embedding.SplitRule: int getMinSmallestWidth()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.ActivityRule parseSplitActivityRule(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.core.Bounds: int getHeight()
+androidx.window.embedding.ExtensionEmbeddingBackend: ExtensionEmbeddingBackend(androidx.window.embedding.EmbeddingInterfaceCompat)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void postMessageToMainFrame(java.lang.reflect.InvocationHandler,android.net.Uri)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.window.core.Version$bigInteger$2: java.lang.Object invoke()
+androidx.window.layout.SidecarCompat: void unregisterComponentCallback(android.app.Activity)
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onPageCommitVisible(android.webkit.WebView,java.lang.String)
+androidx.window.layout.HardwareFoldingFeature: int hashCode()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+io.flutter.plugins.pathprovider.Messages$StorageDirectory: io.flutter.plugins.pathprovider.Messages$StorageDirectory valueOf(java.lang.String)
+androidx.window.embedding.SplitRuleParser: android.content.ComponentName buildClassName(java.lang.String,java.lang.CharSequence)
+androidx.window.embedding.ActivityRule: androidx.window.embedding.ActivityRule plus$window_release(androidx.window.embedding.ActivityFilter)
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+org.chromium.support_lib_boundary.WebMessageListenerBoundaryInterface: void onPostMessage(android.webkit.WebView,java.lang.reflect.InvocationHandler,android.net.Uri,boolean,java.lang.reflect.InvocationHandler)
+androidx.window.layout.WindowInfoTrackerImpl: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Element get(kotlin.coroutines.CoroutineContext$Key)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void insertVisualStateCallback(long,java.lang.reflect.InvocationHandler)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+kotlinx.coroutines.scheduling.WorkQueue: WorkQueue()
+androidx.window.layout.SidecarAdapter$Companion: void setSidecarDisplayFeatures(androidx.window.sidecar.SidecarWindowLayoutInfo,java.util.List)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void removeListener(androidx.core.util.Consumer)
+androidx.window.embedding.SplitController: SplitController(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.embedding.SplitPairRule: boolean equals(java.lang.Object)
+org.chromium.support_lib_boundary.ProxyControllerBoundaryInterface: void setProxyOverride(java.lang.String[][],java.lang.String[],java.lang.Runnable,java.util.concurrent.Executor,boolean)
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$InputAwareWebViewPlatformView: void setWebViewClient(android.webkit.WebViewClient)
+androidx.window.embedding.SplitPairFilter: boolean matchesActivityPair(android.app.Activity,android.app.Activity)
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void close()
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String,java.lang.String,java.util.List)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+androidx.window.embedding.EmbeddingBackend: java.util.Set getSplitRules()
+androidx.window.embedding.SplitRule: int hashCode()
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+kotlin.coroutines.jvm.internal.SuspendLambda: int getArity()
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: void accept(java.util.List)
+androidx.window.embedding.SplitController$Companion: androidx.window.embedding.SplitController getInstance()
+androidx.window.layout.FoldingFeature$OcclusionType$Companion: FoldingFeature$OcclusionType$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext getContext()
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: WindowMetricsCalculator$Companion$reset$1()
+androidx.window.layout.WindowMetricsCalculator$Companion: androidx.window.layout.WindowMetricsCalculator getOrCreate()
+androidx.window.embedding.SplitPairRule: boolean getFinishPrimaryWithSecondary()
+org.chromium.support_lib_boundary.JsReplyProxyBoundaryInterface: void postMessage(java.lang.String)
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTracker getOrCreate(android.content.Context)
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+kotlinx.coroutines.CoroutineDispatcher: CoroutineDispatcher()
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+androidx.window.layout.ActivityCompatHelperApi24: ActivityCompatHelperApi24()
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: void setSafeBrowsingAllowlist(java.util.Set,android.webkit.ValueCallback)
+androidx.window.embedding.EmbeddingCompat: EmbeddingCompat()
+androidx.window.layout.SidecarWindowBackend: boolean isActivityRegistered(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState valueOf(java.lang.String)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: boolean onWebAuthnIntent(android.webkit.WebView,android.app.PendingIntent,java.lang.reflect.InvocationHandler)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$WebViewPlatformView: void setWebChromeClient(android.webkit.WebChromeClient)
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface: java.lang.String getAsString()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+androidx.window.core.Bounds: int getWidth()
+kotlin.jvm.internal.CallableReference: boolean isFinal()
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: java.lang.Object invoke(java.lang.Object)
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArrayList getSplitChangeCallbacks()
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void accept$lambda-0(androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper,androidx.window.layout.WindowLayoutInfo)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setForceDark(int)
+androidx.window.R$id: R$id()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifierBase(int)
+kotlin.jvm.internal.CallableReference: java.util.List getTypeParameters()
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void releaseIntercepted()
+androidx.webkit.internal.ApiHelperForOMR1: android.net.Uri getSafeBrowsingPrivacyPolicyUrl()
+androidx.window.layout.SidecarCompat$Companion: SidecarCompat$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: boolean getAllowFileAccess()
+androidx.window.embedding.ActivityFilter: ActivityFilter(android.content.ComponentName,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+androidx.window.layout.SidecarCompat: void setExtensionCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.window.layout.SidecarCompat$Companion: SidecarCompat$Companion()
+androidx.window.core.Bounds: boolean isZero()
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowBackend access$getWindowBackend$p(androidx.window.layout.WindowInfoTrackerImpl)
+androidx.window.embedding.EmbeddingAdapter: java.lang.Object component1(android.util.Pair)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeCleanupMessageData(long)
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: java.util.List getLastInfo()
+kotlin.coroutines.AbstractCoroutineContextElement: java.lang.Object fold(java.lang.Object,kotlin.jvm.functions.Function2)
+kotlin.coroutines.jvm.internal.ContinuationImpl: ContinuationImpl(kotlin.coroutines.Continuation)
+kotlin.jvm.internal.CallableReference: java.lang.String getSignature()
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: androidx.window.embedding.EmbeddingInterfaceCompat initAndVerifyEmbeddingExtension()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+androidx.webkit.internal.ApiHelperForM: void setWebMessageCallback(android.webkit.WebMessagePort,androidx.webkit.WebMessagePortCompat$WebMessageCallbackCompat)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.webkit.internal.ApiHelperForP: boolean stop(android.webkit.TracingController,java.io.OutputStream,java.util.concurrent.Executor)
+io.flutter.plugins.webviewflutter.GeneratedAndroidWebView$FileChooserModeEnumData: GeneratedAndroidWebView$FileChooserModeEnumData()
+io.flutter.plugins.webviewflutter.GeneratedAndroidWebView$WebResourceErrorData: GeneratedAndroidWebView$WebResourceErrorData()
+androidx.window.R: R()
+androidx.window.embedding.SplitPairRule: boolean getFinishSecondaryWithPrimary()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext plus(kotlin.coroutines.CoroutineContext)
+androidx.window.core.Bounds: boolean isEmpty()
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetrics computeCurrentWindowMetrics(android.app.Activity)
+androidx.window.layout.FoldingFeature$Orientation$Companion: FoldingFeature$Orientation$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.SidecarAdapter: SidecarAdapter()
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KVisibility getVisibility()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+androidx.window.embedding.ActivityFilter: java.lang.String toString()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isVisible(int)
+kotlinx.coroutines.internal.ThreadSafeHeap: ThreadSafeHeap()
+kotlinx.coroutines.internal.AtomicOp: AtomicOp()
+androidx.window.core.Version: Version(int,int,int,java.lang.String)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: android.app.Activity getActivity()
+androidx.window.layout.ActivityCompatHelperApi24: boolean isInMultiWindowMode(android.app.Activity)
+androidx.window.embedding.SplitRule: int getLayoutDirection()
+androidx.window.embedding.MatcherUtils: boolean areComponentsMatching$window_release(android.content.ComponentName,android.content.ComponentName)
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$600(io.flutter.embedding.android.FlutterSplashView$SavedState)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getStatics()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.SidecarAdapter: androidx.window.layout.WindowLayoutInfo translate(androidx.window.sidecar.SidecarWindowLayoutInfo,androidx.window.sidecar.SidecarDeviceState)
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+androidx.webkit.internal.ApiHelperForOMR1: void proceed(android.webkit.SafeBrowsingResponse,boolean)
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsIceCreamSandwich$window_release(android.app.Activity)
+androidx.window.embedding.SplitController$Companion: void initialize(android.content.Context,int)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void addListener(java.util.concurrent.Executor,androidx.core.util.Consumer,kotlinx.coroutines.flow.Flow)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void resumeWith(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: HardwareFoldingFeature$Type$Companion()
+androidx.window.layout.SidecarCompat$TranslatingCallback: SidecarCompat$TranslatingCallback(androidx.window.layout.SidecarCompat)
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+androidx.window.layout.SidecarWindowBackend$Companion: androidx.window.layout.ExtensionInterfaceCompat initAndVerifyExtension(android.content.Context)
+kotlin.jvm.internal.CallableReference: java.util.List getAnnotations()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+kotlinx.coroutines.ExecutorCoroutineDispatcher: ExecutorCoroutineDispatcher()
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+androidx.window.core.Version: Version(int,int,int,java.lang.String,kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+androidx.window.layout.SidecarCompat$TranslatingCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable compute()
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+org.chromium.support_lib_boundary.ProxyControllerBoundaryInterface: void clearProxyOverride(java.lang.Runnable,java.util.concurrent.Executor)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,kotlin.reflect.KDeclarationContainer,java.lang.String,java.lang.String)
+androidx.window.embedding.SplitRule: int getMinWidth()
+androidx.window.layout.SidecarWindowBackend: void callbackRemovedForActivity(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+androidx.window.embedding.SplitController: void initialize(android.content.Context,int)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifier(int)
+androidx.window.layout.WindowMetrics: WindowMetrics(android.graphics.Rect)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.FoldingFeature translate$window_release(android.app.Activity,androidx.window.extensions.layout.FoldingFeature)
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: SidecarCompat$FirstAttachAdapter(androidx.window.layout.SidecarCompat,android.app.Activity)
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPairRule parseSplitPairRule(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend access$getGlobalInstance$cp()
+androidx.window.embedding.SplitPlaceholderRule: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+kotlin.random.Random: Random()
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setBlockNetworkLoads(boolean)
+androidx.window.layout.WindowInfoTracker$-CC: androidx.window.layout.WindowInfoTracker getOrCreate(android.content.Context)
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type access$getFOLD$cp()
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted()
+androidx.window.embedding.ActivityRule: ActivityRule(java.util.Set,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setForceDarkBehavior(int)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Key getKey()
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+androidx.window.embedding.SplitPairRule: java.util.Set getFilters()
+kotlin.coroutines.jvm.internal.ContinuationImpl: void releaseIntercepted()
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: java.lang.Object invoke(java.lang.Object)
+kotlin.jvm.internal.FunctionReference: boolean isSuspend()
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+androidx.window.layout.WindowLayoutInfo: java.lang.String toString()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setWebAuthnSupport(int)
+io.flutter.plugins.urllauncher.UrlLauncherPlugin: UrlLauncherPlugin()
+androidx.window.embedding.EmptyEmbeddingComponent: void setEmbeddingRules(java.util.Set)
+androidx.window.embedding.EmptyEmbeddingComponent: void setSplitInfoCallback(java.util.function.Consumer)
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+androidx.window.core.Version$Companion: androidx.window.core.Version parse(java.lang.String)
+androidx.window.embedding.EmbeddingAdapter: java.util.Set translate(java.util.Set)
+androidx.window.embedding.ExtensionEmbeddingBackend: void unregisterSplitListenerForActivity(androidx.core.util.Consumer)
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetrics computeMaximumWindowMetrics(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.window.embedding.ExtensionEmbeddingBackend: boolean isSplitSupported()
+androidx.window.layout.HardwareFoldingFeature$Type: HardwareFoldingFeature$Type(java.lang.String)
+kotlinx.coroutines.internal.OpDescriptor: OpDescriptor()
+androidx.window.layout.SidecarAdapter: java.util.List translate(java.util.List,androidx.window.sidecar.SidecarDeviceState)
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDisplayFeature(androidx.window.sidecar.SidecarDisplayFeature,androidx.window.sidecar.SidecarDisplayFeature)
+androidx.window.core.Version: androidx.window.core.Version access$getUNKNOWN$cp()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture,java.lang.Runnable)
+androidx.window.layout.SidecarWindowBackend: void getWindowLayoutChangeCallbacks$annotations()
+androidx.window.layout.SidecarAdapter$Companion: java.util.List getSidecarDisplayFeatures(androidx.window.sidecar.SidecarWindowLayoutInfo)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.String toString()
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KType getReturnType()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+androidx.webkit.internal.ApiHelperForM: int getErrorCode(android.webkit.WebResourceError)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.StackTraceElement getStackTraceElement()
+androidx.window.embedding.ActivityRule: java.util.Set getFilters()
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invoke(kotlinx.coroutines.CoroutineScope,kotlin.coroutines.Continuation)
+androidx.window.embedding.SplitInfo: boolean equals(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: java.lang.Object emit(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+kotlinx.coroutines.MainCoroutineDispatcher: MainCoroutineDispatcher()
+androidx.window.embedding.SplitPlaceholderRule: androidx.window.embedding.SplitPlaceholderRule plus$window_release(androidx.window.embedding.ActivityFilter)
+org.chromium.support_lib_boundary.IsomorphicObjectBoundaryInterface: java.lang.Object getOrCreatePeer(java.util.concurrent.Callable)
+androidx.window.layout.SidecarCompat$TranslatingCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.embedding.SplitRule: SplitRule()
+androidx.window.embedding.EmbeddingCompat: EmbeddingCompat(androidx.window.extensions.embedding.ActivityEmbeddingComponent,androidx.window.embedding.EmbeddingAdapter)
+androidx.window.embedding.SplitInfo: boolean contains(android.app.Activity)
+kotlin.jvm.internal.FunctionReference: int getArity()
+kotlin.jvm.internal.CallableReference: boolean isSuspend()
+androidx.window.layout.SidecarWindowBackend$Companion: void resetInstance()
+androidx.window.layout.ActivityCompatHelperApi30: ActivityCompatHelperApi30()
+androidx.window.layout.WindowMetricsCalculator$-CC: androidx.window.layout.WindowMetricsCalculator getOrCreate()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.jvm.internal.CoroutineStackFrame getCallerFrame()
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: boolean isExtensionVersionSupported(java.lang.Integer)
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: void invokeSuspend$lambda-0(kotlinx.coroutines.channels.Channel,androidx.window.layout.WindowLayoutInfo)
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$State getState()
+androidx.window.core.Version: int getMajor()
+io.flutter.embedding.android.FlutterView: void setWindowInfoListenerDisplayFeatures(androidx.window.layout.WindowLayoutInfo)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+androidx.window.core.Version$Companion: Version$Companion()
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+androidx.window.layout.WindowMetricsCalculator$Companion: void reset()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointVariantSelector(int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+androidx.window.layout.HardwareFoldingFeature: java.lang.String toString()
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setAllowFileAccess(boolean)
+androidx.window.java.R: R()
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityPairPredicates(java.util.Set)
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityPredicates(java.util.Set)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: void setSupportLibraryVersion(java.lang.String)
+androidx.window.layout.SidecarWindowBackend$Companion: boolean isSidecarVersionSupported(androidx.window.core.Version)
+androidx.window.embedding.SplitController: void access$setGlobalInstance$cp(androidx.window.embedding.SplitController)
+androidx.window.embedding.ActivityFilter: java.lang.String getIntentAction()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String,java.lang.String,java.util.List)
+androidx.window.core.Bounds: int hashCode()
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPlaceholderRule parseSplitPlaceholderRule(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.layout.HardwareFoldingFeature: HardwareFoldingFeature(androidx.window.core.Bounds,androidx.window.layout.HardwareFoldingFeature$Type,androidx.window.layout.FoldingFeature$State)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+kotlin.jvm.internal.CallableReference: java.lang.Object callBy(java.util.Map)
+androidx.window.layout.SidecarAdapter$Companion: void setSidecarDevicePosture(androidx.window.sidecar.SidecarDeviceState,int)
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDeviceState(androidx.window.sidecar.SidecarDeviceState,androidx.window.sidecar.SidecarDeviceState)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.window.embedding.SplitController: boolean isSplitSupported()
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack getSecondaryActivityStack()
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+io.flutter.plugins.pathprovider.Messages$StorageDirectory: io.flutter.plugins.pathprovider.Messages$StorageDirectory[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateDisplayMetrics(long)
+androidx.window.layout.FoldingFeature$State: java.lang.String toString()
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+androidx.window.embedding.SplitInfo: java.lang.String toString()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.embedding.EmbeddingBackend: void unregisterSplitListenerForActivity(androidx.core.util.Consumer)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1(androidx.core.util.Consumer)
+androidx.window.embedding.SplitController: void removeSplitListener(androidx.core.util.Consumer)
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+kotlin.jvm.internal.Lambda: int getArity()
+androidx.window.embedding.ExtensionEmbeddingBackend: void registerSplitListenerForActivity(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.webkit.internal.ApiHelperForM: androidx.webkit.WebMessageCompat createWebMessageCompat(android.webkit.WebMessage)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$State getState()
+androidx.window.embedding.SplitRule$Api30Impl: SplitRule$Api30Impl()
+androidx.window.embedding.EmbeddingCompat$Companion: EmbeddingCompat$Companion()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.window.layout.EmptyDecorator: EmptyDecorator()
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarAdapter access$getSidecarAdapter$p(androidx.window.layout.SidecarCompat)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+androidx.window.layout.FoldingFeature$OcclusionType: FoldingFeature$OcclusionType(java.lang.String)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+androidx.window.core.Bounds: Bounds(android.graphics.Rect)
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void setWebMessageCallback(java.lang.reflect.InvocationHandler)
+androidx.window.embedding.SplitController: void setStaticSplitRules(java.util.Set)
+androidx.window.embedding.SplitController: void access$setStaticSplitRules(androidx.window.embedding.SplitController,java.util.Set)
+androidx.window.layout.WindowBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler createWebView(android.webkit.WebView)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext minusKey(kotlin.coroutines.CoroutineContext$Key)
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.CopyOnWriteArrayList getWindowLayoutChangeCallbacks()
+org.chromium.support_lib_boundary.WebResourceErrorBoundaryInterface: java.lang.CharSequence getDescription()
+androidx.window.core.Version: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: boolean shouldOverrideUrlLoading(android.webkit.WebView,android.webkit.WebResourceRequest)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: ExtensionEmbeddingBackend$SplitListenerWrapper(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertWebMessagePort(java.lang.Object)
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KFunction getReflected()
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: boolean getAllowContentAccess()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+kotlin.jvm.internal.CallableReference: CallableReference(java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,boolean)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateRefreshRate(float)
+androidx.window.embedding.SplitPairRule: SplitPairRule(java.util.Set,boolean,boolean,boolean,int,int,float,int)
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+androidx.window.embedding.ActivityFilter: boolean equals(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.window.layout.SidecarCompat: void onWindowLayoutChangeListenerAdded(android.app.Activity)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void accept(androidx.window.extensions.layout.WindowLayoutInfo)
+kotlin.internal.jdk7.JDK7PlatformImplementations: JDK7PlatformImplementations()
+androidx.window.layout.ExtensionInterfaceCompat: boolean validateExtensionInterface()
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetLeft(android.view.DisplayCutout)
+androidx.window.embedding.ActivityStack: boolean equals(java.lang.Object)
+androidx.window.embedding.ExtensionEmbeddingBackend: void getSplitChangeCallbacks$annotations()
+androidx.window.layout.WindowMetrics: int hashCode()
+androidx.webkit.internal.ApiHelperForM: void postWebMessage(android.webkit.WebView,android.webkit.WebMessage,android.net.Uri)
+androidx.window.layout.WindowInfoTracker$-CC: void reset()
+androidx.window.layout.FoldingFeature$State$Companion: FoldingFeature$State$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+androidx.window.layout.FoldingFeature$Orientation: FoldingFeature$Orientation(java.lang.String)
+kotlin.jvm.internal.FunctionReference: FunctionReference(int,java.lang.Object)
+androidx.window.layout.SidecarAdapter$Companion: int getSidecarDevicePosture$window_release(androidx.window.sidecar.SidecarDeviceState)
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetTop(android.view.DisplayCutout)
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+androidx.window.embedding.SplitRule: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+kotlinx.coroutines.internal.LockFreeLinkedListHead: LockFreeLinkedListHead()
+kotlin.jvm.internal.CallableReference: java.lang.String getName()
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+kotlin.reflect.KVisibility: kotlin.reflect.KVisibility valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+androidx.core.view.WindowInsetsCompat$Impl30: boolean isVisible(int)
+androidx.window.embedding.EmbeddingAdapter: boolean translateIntentPredicates$lambda-8(java.util.Set,android.content.Intent)
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: java.lang.String getVariationsHeader()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.window.embedding.ActivityFilter: boolean matchesIntent(android.content.Intent)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void accept(androidx.window.layout.WindowLayoutInfo)
+kotlin.jvm.internal.CallableReference: java.util.List getParameters()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: WindowInfoTrackerImpl$windowLayoutInfo$1(androidx.window.layout.WindowInfoTrackerImpl,android.app.Activity,kotlin.coroutines.Continuation)
+androidx.window.embedding.MatcherUtils: boolean areActivityOrIntentComponentsMatching$window_release(android.app.Activity,android.content.ComponentName)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getEnterpriseAuthenticationAppLinkPolicyEnabled()
+androidx.window.layout.SidecarCompat: SidecarCompat(android.content.Context)
+androidx.window.layout.SidecarAdapter: java.lang.String access$getTAG$cp()
+androidx.window.core.Version: int getMinor()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+kotlinx.coroutines.scheduling.SchedulerTimeSource: SchedulerTimeSource()
+io.flutter.plugins.webviewflutter.GeneratedAndroidWebView: GeneratedAndroidWebView()
+io.flutter.plugins.webviewflutter.WebChromeClientHostApiImpl$SecureWebChromeClient: WebChromeClientHostApiImpl$SecureWebChromeClient()
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI)
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.embedding.SplitPlaceholderRule: android.content.Intent getPlaceholderIntent()
+androidx.webkit.internal.ApiHelperForM: void setWebMessageCallback(android.webkit.WebMessagePort,androidx.webkit.WebMessagePortCompat$WebMessageCallbackCompat,android.os.Handler)
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: java.lang.Object invoke(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setDisabledActionModeMenuItems(int)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$702(io.flutter.embedding.android.FlutterSplashView$SavedState,android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KCallable getReflected()
+androidx.window.embedding.SplitRule: SplitRule(int,int,float,int)
+androidx.window.layout.WindowLayoutInfo: int hashCode()
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable computeReflected()
+androidx.window.embedding.SplitPlaceholderRule: SplitPlaceholderRule(java.util.Set,android.content.Intent,int,int,float,int)
+androidx.window.layout.SidecarCompat: SidecarCompat(androidx.window.sidecar.SidecarInterface,androidx.window.layout.SidecarAdapter)
+androidx.window.layout.FoldingFeature$Orientation: java.lang.String toString()
+androidx.window.embedding.SplitController: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onReceivedHttpError(android.webkit.WebView,android.webkit.WebResourceRequest,android.webkit.WebResourceResponse)
+io.flutter.embedding.engine.FlutterJNI: void lambda$decodeImage$0(long,android.graphics.ImageDecoder,android.graphics.ImageDecoder$ImageInfo,android.graphics.ImageDecoder$Source)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+androidx.window.layout.SidecarCompat: androidx.window.layout.WindowLayoutInfo getWindowLayoutInfo(android.app.Activity)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+androidx.window.core.Bounds: int getBottom()
+androidx.window.layout.WindowInfoTracker$Companion: void reset()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+androidx.window.core.Version: int hashCode()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation getCompletion()
+androidx.window.embedding.SplitPlaceholderRule: SplitPlaceholderRule(java.util.Set,android.content.Intent,int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: int getCacheMode()
+androidx.window.layout.HardwareFoldingFeature: boolean isSeparating()
+io.flutter.plugins.urllauncher.UrlLauncher$LaunchStatus: io.flutter.plugins.urllauncher.UrlLauncher$LaunchStatus valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: ExtensionEmbeddingBackend$EmbeddingCallbackImpl(androidx.window.embedding.ExtensionEmbeddingBackend)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isVisible(int)
+androidx.window.embedding.SplitController: java.util.Set getSplitRules()
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: java.lang.reflect.InvocationHandler getWebViewRenderer()
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getForceDarkBehavior()
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setOffscreenPreRaster(boolean)
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface: void showInterstitial(boolean)
+androidx.window.core.Bounds: boolean equals(java.lang.Object)
+androidx.window.core.Version: int getPatch()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+kotlinx.coroutines.channels.Receive: Receive()
+androidx.window.embedding.SplitPairRule: SplitPairRule(java.util.Set,boolean,boolean,boolean,int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+org.chromium.support_lib_boundary.FeatureFlagHolderBoundaryInterface: java.lang.String[] getSupportedFeatures()
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: int getRequestedWithHeaderMode()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: boolean validBounds(android.app.Activity,androidx.window.core.Bounds)
+androidx.window.embedding.SplitPairRule: androidx.window.embedding.SplitPairRule plus$window_release(androidx.window.embedding.SplitPairFilter)
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetrics computeCurrentWindowMetrics(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+kotlin.internal.jdk8.JDK8PlatformImplementations: JDK8PlatformImplementations()
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+kotlin.jvm.internal.CallableReference: boolean isAbstract()
+kotlinx.coroutines.EventLoop: EventLoop()
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getServiceWorkerController()
+androidx.window.embedding.EmbeddingBackend: void setSplitRules(java.util.Set)
+androidx.window.embedding.SplitRule: SplitRule(int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.webkit.internal.ApiHelperForP: void start(android.webkit.TracingController,androidx.webkit.TracingConfig)
+androidx.window.layout.SidecarAdapter$Companion: SidecarAdapter$Companion()
+androidx.window.layout.WindowInfoTrackerDecorator: androidx.window.layout.WindowInfoTracker decorate(androidx.window.layout.WindowInfoTracker)
+kotlin.jvm.internal.CallableReference: java.lang.Object call(java.lang.Object[])
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onSafeBrowsingHit(android.webkit.WebView,android.webkit.WebResourceRequest,int,java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.ProxyControllerBoundaryInterface: void setProxyOverride(java.lang.String[][],java.lang.String[],java.lang.Runnable,java.util.concurrent.Executor)
+androidx.window.embedding.EmptyEmbeddingComponent: EmptyEmbeddingComponent()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.window.layout.WindowMetrics: boolean equals(java.lang.Object)
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable getReflected()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+androidx.window.embedding.EmbeddingTranslatingCallback: void accept(java.lang.Object)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+androidx.window.core.Version: androidx.window.core.Version access$getVERSION_0_1$cp()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+kotlinx.coroutines.YieldContext: YieldContext()
+androidx.window.layout.DisplayCompatHelperApi17: void getRealSize(android.view.Display,android.graphics.Point)
+io.flutter.embedding.engine.FlutterJNI: void onVsync(long,long,long)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.WindowLayoutInfo translate$window_release(android.app.Activity,androidx.window.extensions.layout.WindowLayoutInfo)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void removeWebMessageListener(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+androidx.window.core.Version: androidx.window.core.Version parse(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: java.lang.reflect.InvocationHandler addDocumentStartJavaScript(java.lang.String,java.lang.String[])
+androidx.window.embedding.ExtensionEmbeddingBackend: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName getSecondaryActivityName()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsetsAnimation$Bounds onStart(android.view.WindowInsetsAnimation,android.view.WindowInsetsAnimation$Bounds)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: ExtensionEmbeddingBackend$Companion()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: WindowInfoTrackerCallbackAdapter$addListener$1$1(kotlinx.coroutines.flow.Flow,androidx.core.util.Consumer,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.window.layout.WindowMetricsCalculator$Companion: WindowMetricsCalculator$Companion()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+kotlinx.coroutines.CancelHandlerBase: CancelHandlerBase()
+androidx.window.core.Version$bigInteger$2: java.math.BigInteger invoke()
+kotlin.coroutines.jvm.internal.SuspendLambda: SuspendLambda(int)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.String[] getSupportedFeatures()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+kotlinx.coroutines.EventLoopImplBase: EventLoopImplBase()
+androidx.window.embedding.EmbeddingTranslatingCallback: void accept(java.util.List)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void setImeVisibleListener(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$ImeVisibleListener)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+androidx.window.layout.WindowMetrics: java.lang.String toString()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+androidx.window.core.Bounds: android.graphics.Rect toRect()
+androidx.window.layout.SidecarCompat: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface access$getExtensionCallback$p(androidx.window.layout.SidecarCompat)
+org.chromium.support_lib_boundary.ScriptHandlerBoundaryInterface: void remove()
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: void accept$lambda-1(androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper,java.util.List)
+androidx.window.layout.WindowMetrics: android.graphics.Rect getBounds()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+org.chromium.support_lib_boundary.WebMessageBoundaryInterface: java.lang.reflect.InvocationHandler[] getPorts()
+androidx.webkit.internal.ApiHelperForOMR1: void backToSafety(android.webkit.SafeBrowsingResponse,boolean)
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: androidx.window.layout.HardwareFoldingFeature$Type getHINGE()
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.android.FlutterImageView getCurrentImageSurface()
+androidx.window.layout.FoldingFeature$OcclusionType: java.lang.String toString()
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+androidx.window.embedding.EmbeddingAdapter: java.lang.Object component2(android.util.Pair)
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+kotlinx.coroutines.internal.LockFreeLinkedListNode: LockFreeLinkedListNode()
+androidx.window.layout.SidecarCompat$Companion: androidx.window.core.Version getSidecarVersion()
+io.flutter.view.AccessibilityBridge$LocaleStringAttribute: AccessibilityBridge$LocaleStringAttribute()
+androidx.window.layout.WindowBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.layout.WindowMetricsCalculatorCompat: WindowMetricsCalculatorCompat()
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: androidx.window.embedding.ExtensionEmbeddingBackend getInstance()
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode valueOf(java.lang.String)
+androidx.window.embedding.SplitPairRule: boolean getClearTop()
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Point getRealSizeForDisplay$window_release(android.view.Display)
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.android.HandlerContext createDispatcher(java.util.List)
+androidx.window.layout.SidecarCompat: void register(android.os.IBinder,android.app.Activity)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: android.webkit.WebViewClient getWebViewClient()
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$ImeVisibleListener access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.core.Version: androidx.window.core.Version access$getVERSION_1_0$cp()
+androidx.window.layout.SidecarCompat: boolean validateExtensionInterface()
+kotlinx.coroutines.CancelHandler: CancelHandler()
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$WebViewPlatformView: void setWebViewClient(android.webkit.WebViewClient)
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$Orientation getOrientation()
+androidx.window.layout.WindowInfoTracker: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+kotlin.jvm.internal.FunctionReference: boolean isExternal()
+androidx.window.embedding.EmbeddingRule: EmbeddingRule()
+kotlin.internal.PlatformImplementations: PlatformImplementations()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+io.flutter.plugins.urllauncher.UrlLauncher$LaunchStatus: io.flutter.plugins.urllauncher.UrlLauncher$LaunchStatus[] values()
+androidx.window.embedding.EmbeddingInterfaceCompat: void setSplitRules(java.util.Set)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarWindowLayoutInfo(androidx.window.sidecar.SidecarWindowLayoutInfo,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.window.layout.WindowLayoutInfo getLastInfo()
+kotlin.jvm.internal.FunctionReference: boolean isInfix()
+androidx.window.embedding.ActivityStack: int hashCode()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcel)
+io.flutter.plugins.webviewflutter.InputAwareWebView: void setInputConnectionTarget(android.view.View)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertServiceWorkerSettings(java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getTracingController()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: android.webkit.WebChromeClient getWebChromeClient()
+androidx.webkit.internal.ApiHelperForM: void postMessage(android.webkit.WebMessagePort,android.webkit.WebMessage)
+kotlinx.coroutines.CompletionHandlerBase: CompletionHandlerBase()
+androidx.window.embedding.ActivityRule: int hashCode()
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+org.chromium.support_lib_boundary.ServiceWorkerClientBoundaryInterface: android.webkit.WebResourceResponse shouldInterceptRequest(android.webkit.WebResourceRequest)
+androidx.window.layout.WindowMetricsCalculatorCompat: android.view.DisplayCutout getCutoutForDisplay(android.view.Display)
+androidx.window.layout.HardwareFoldingFeature$Companion: HardwareFoldingFeature$Companion()
+org.chromium.support_lib_boundary.WebResourceErrorBoundaryInterface: int getErrorCode()
+androidx.window.layout.HardwareFoldingFeature$Companion: HardwareFoldingFeature$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: WindowMetricsCalculator$Companion$overrideDecorator$1(java.lang.Object)
+androidx.window.core.Bounds: int getRight()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void setWebMessageCallback(java.lang.reflect.InvocationHandler,android.os.Handler)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+kotlinx.coroutines.scheduling.Task: Task()
+androidx.window.layout.WindowMetricsCalculatorCompat: void getRectSizeFromDisplay(android.app.Activity,android.graphics.Rect)
+androidx.window.embedding.ActivityFilter: android.content.ComponentName getComponentName()
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: SidecarCompat$DistinctSidecarElementCallback(androidx.window.layout.SidecarAdapter,androidx.window.sidecar.SidecarInterface$SidecarCallback)
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getForceDark()
+kotlin.jvm.internal.FunctionReference: FunctionReference(int,java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,int)
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KCallable computeReflected()
+io.flutter.embedding.engine.FlutterEngineGroupCache: FlutterEngineGroupCache()
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: WindowMetricsCalculator$Companion$decorator$1()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.ExtensionInterfaceCompat getWindowExtension()
+kotlin.jvm.internal.FunctionReference: int hashCode()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.window.embedding.SplitRuleParser: java.util.Set parseSplitXml(android.content.Context,int)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void addWindowLayoutInfoListener(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.layout.SidecarAdapter$Companion: SidecarAdapter$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.HardwareFoldingFeature$Type: java.lang.String toString()
+androidx.window.embedding.ActivityRule: boolean getAlwaysExpand()
+androidx.window.core.Version: androidx.window.core.Version access$getCURRENT$cp()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+androidx.window.layout.SidecarCompat$Companion: android.os.IBinder getActivityWindowToken$window_release(android.app.Activity)
+io.flutter.embedding.android.FlutterSplashView$SavedState: void writeToParcel(android.os.Parcel,int)
+androidx.window.layout.SidecarAdapter$Companion: int getRawSidecarDevicePosture(androidx.window.sidecar.SidecarDeviceState)
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityIntentPredicates$lambda-3(androidx.window.embedding.EmbeddingAdapter,java.util.Set,android.util.Pair)
+androidx.window.layout.WindowMetricsCalculatorDecorator: androidx.window.layout.WindowMetricsCalculator decorate(androidx.window.layout.WindowMetricsCalculator)
+kotlin.jvm.internal.FunctionReference: boolean equals(java.lang.Object)
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+androidx.window.core.Version$Companion: androidx.window.core.Version getCURRENT()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+androidx.window.layout.WindowLayoutInfo: WindowLayoutInfo(java.util.List)
+kotlin.jvm.internal.TypeIntrinsics: TypeIntrinsics()
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+androidx.window.layout.WindowInfoTrackerImpl: WindowInfoTrackerImpl(androidx.window.layout.WindowMetricsCalculator,androidx.window.layout.WindowBackend)
+androidx.window.core.Version: java.math.BigInteger getBigInteger()
+kotlinx.coroutines.channels.Send: Send()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: java.lang.reflect.InvocationHandler[] createWebMessageChannel()
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertWebResourceRequest(android.webkit.WebResourceRequest)
+androidx.window.layout.WindowMetricsCalculator$Companion: void overrideDecorator(androidx.window.layout.WindowMetricsCalculatorDecorator)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getWillSuppressErrorPage()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void accept(java.lang.Object)
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,java.lang.Class,java.lang.String,java.lang.String,int)
+kotlin.jvm.internal.Intrinsics: Intrinsics()
+kotlin.coroutines.jvm.internal.SuspendLambda: SuspendLambda(int,kotlin.coroutines.Continuation)
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+io.flutter.plugins.urllauncher.WebViewActivity: WebViewActivity()
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: void setSafeBrowsingWhitelist(java.util.List,android.webkit.ValueCallback)
+androidx.window.embedding.ActivityFilter: boolean matchesActivity(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setSafeBrowsingEnabled(boolean)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: ExtensionsWindowLayoutInfoAdapter()
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onReceivedError(android.webkit.WebView,android.webkit.WebResourceRequest,java.lang.reflect.InvocationHandler)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+io.flutter.plugins.webviewflutter.JavaScriptChannel: void postMessage(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcelable)
+androidx.window.embedding.EmbeddingCompat$Companion: EmbeddingCompat$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+androidx.window.layout.FoldingFeature$OcclusionType$Companion: FoldingFeature$OcclusionType$Companion()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void addWebMessageListener(java.lang.String,java.lang.String[],java.lang.reflect.InvocationHandler)
+androidx.webkit.WebViewClientCompat: WebViewClientCompat()
+io.flutter.embedding.engine.FlutterJNI: void updateDisplayMetrics(int,float,float,float)
+androidx.webkit.internal.ApiHelperForOMR1: void showInterstitial(android.webkit.SafeBrowsingResponse,boolean)
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$602(io.flutter.embedding.android.FlutterSplashView$SavedState,java.lang.String)
+androidx.window.core.Version: int compareTo(java.lang.Object)
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformView,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,android.view.View$OnFocusChangeListener)
+androidx.window.layout.WindowInfoTracker$Companion: void overrideDecorator(androidx.window.layout.WindowInfoTrackerDecorator)
+androidx.window.layout.ActivityCompatHelperApi30: android.graphics.Rect maximumWindowBounds(android.app.Activity)
+androidx.window.embedding.ActivityStack: ActivityStack(java.util.List,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.SidecarCompat$DistinctElementCallback: SidecarCompat$DistinctElementCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+androidx.window.layout.HardwareFoldingFeature: android.graphics.Rect getBounds()
+androidx.window.core.Version: java.lang.String toString()
+androidx.window.embedding.EmbeddingBackend: boolean isSplitSupported()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean isAlgorithmicDarkeningAllowed()

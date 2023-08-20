@@ -1,0 +1,1 @@
+ build\\web\\favicon.png build\\web\\icons\\Icon-192.png build\\web\\icons\\Icon-512.png build\\web\\index.html:  D:\\OneDrive\\Documents\\GitHub\\breaker\\web\\favicon.png D:\\OneDrive\\Documents\\GitHub\\breaker\\web\\icons\\Icon-192.png D:\\OneDrive\\Documents\\GitHub\\breaker\\web\\icons\\Icon-512.png D:\\OneDrive\\Documents\\GitHub\\breaker\\web\\index.html
